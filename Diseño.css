@@ -3,4 +3,8 @@ body
    color:pink; 
    text-align: center;
    font-family: 'Courier New', Courier, monospace;
+   
+}
+#p1{
+   border: 10px;
 }
